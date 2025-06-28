@@ -55,7 +55,7 @@
 ## 🚀 Installation
 
 1. Go to [Releases](https://github.com/PATSIMA/HWINFO/releases)
-2. Download the latest `Patsima-hwinfo-Setup-x.x.x.exe`
+2. Download the latest `Patsima - hwinfo Setup 1.0.0`
 3. Run the installer with administrator privileges
 4. Launch the application
 
